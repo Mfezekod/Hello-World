@@ -1,2 +1,4 @@
 # Hello-World
-my first repository
+
+Hi
+my name is mfezeko im from johannesburg and im new to coding 
